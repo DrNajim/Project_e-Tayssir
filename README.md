@@ -1,4 +1,4 @@
-# Description of this Full stack Project "TaySsir" using (React, Redux, Nodejs, Expressjs, MongoDB, MUI, Bootstrap, Tailwaind-CSS)
+# Description of this Responsive Full stack Project: "TaySsir", using (React, Redux, Nodejs, Expressjs, MongoDB, MUI, Bootstrap, Tailwaind-CSS)
 
 The TaySsir platform aims to provide a comprehensive e-service solution for streamlining administrative and healthcare processes, making them accessible online. It will offer users a seamless, efficient, and secure experience when performing various administrative and healthcare-related tasks.
 
